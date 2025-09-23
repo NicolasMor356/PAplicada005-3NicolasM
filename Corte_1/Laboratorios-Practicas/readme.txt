@@ -4,4 +4,4 @@ Carpeta de practicas de lab
 https://wokwi.com/projects/442904060085083137
 
 8 Leds intermitentes
-https
+https://wokwi.com/projects/442917820239560705

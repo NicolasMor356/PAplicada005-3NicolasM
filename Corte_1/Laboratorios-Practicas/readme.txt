@@ -1,7 +1,7 @@
-Primera Practica de ESP32 Workwi
+Carpeta de practicas de lab
 
-Led intermitent
-https
+1 Led intermitent
+https:
 
 8 Leds intermitentes
 https

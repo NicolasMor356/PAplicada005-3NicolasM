@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi página Valorant HTML</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1 style="text-align: center;">Página de Valoooooranttt</h1>
+
+    <hr>
+    <img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2f99bf9ccc11d217b1c97dd0592c8c93f411d2b8-521x640.gif" alt="Kjsad" width="300">
+    <hr>
+
+    <hr>
+    <h2>OMEN BAILANDO</h2>
+    <img src="https://media.tenor.com/xdJo4lxNGbkAAAAM/omen-omencatdance.gif" alt="oMENBAILANDO" width="250">
+    <hr>
+    <audio controls>
+        <source src="https://www.myinstants.com/media/sounds/valorant-spike-plant.mp3" type="audio/mpeg">
+        Tu navegador no soporta la etiqueta de audio.
+    </audio>
+    <br><br>
+    <a href="https://github.com/NicolasMor356/PAplicada005-3NicolasM" target="_blank">Ir a Github Nicolas</a>
+
+    <hr>
+    <img src="https://tenor.com/vBoeyniiadJ.gif" alt="Omen baile" width="300">
+    <hr>
+
+
+    <hr>
+    <img src="https://tenor.com/pZ0NKcWnjBM.gif" alt="Horcus VAMOS" width="300">
+    <hr>
+    
+    <h1>VALORANT</h1>
+    <p>Esta es mi primera página web sobre el videojuego Valorant.</p>
+    <p>Valorant es un shooter táctico desarrollado por Riot Games y esta pagina esta enfocada en la vision de alguien no profesional rango Diamante.</p>
+
+    <h2>Imágenes del juego</h2>
+    <img src="https://i.redd.it/kv9sribok3r41.png" alt="Jett" width="500"></body></p>
+    <img src="https://www.xtrafondos.com/wallpapers/todos-los-personajes-de-valorant-5943.jpg" alt="Agentes" width="700">
+
+    <hr>
+
+    <h2>Tabla de agentes</h2>
+    <table border="2">
+        <tr>
+            <th>Agente</th>
+            <th>Rol</th>
+            <th>País</th>
+        </tr>
+        <tr>
+            <td>Jett</td>
+            <td>Duelista</td>
+            <td>Corea del Sur</td>
+        </tr>
+        <tr>
+            <td>Sage</td>
+            <td>Centinela</td>
+            <td>China</td>
+        </tr>
+        <tr>
+            <td>Brimstone</td>
+            <td>Controlador</td>
+            <td>EE.UU.</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>Listas ordenadas y desordenadas</h2>
+
+    <h3>Lista ordenada (armas favoritas)</h3>
+    <ol>
+        <li>Phantom</li>
+        <li>Vandal</li>
+        <li>Ghost</li>
+    </ol>
+
+    <h3>Lista desordenada (mapas)</h3>
+    <ul>
+        <li>Ascent</li>
+        <li>Bind</li>
+        <li>Haven</li>
+        <li>Icebox</li>
+    </ul>
+
+    <hr>
+
+    <h2>Video del juego</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_qRxvsxHgEg?si=Izeq_cK_Ahw_W4YU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" 
+    <hr>
+    <hr>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/jNQXAC9IVRw"
+    title="Video del juego"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+    </iframe>
+    <hr>
+
+
+    <p>Creado por: Nicolas Moreno (Nicochan)</p>
+
+</body>
+</html>
